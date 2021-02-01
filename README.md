@@ -1,2 +1,2 @@
-# Amity-University-C-Programming
-Assignment 2
+# Assignment-1-2
+C Programming Questions
